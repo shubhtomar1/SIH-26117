@@ -1,0 +1,68 @@
+Document Summary TASK-04FB2015
+==============================
+
+Analysis & Generated Response:
+--------------------------------
+- **Title:** Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work
+  - **Problem Statement ID:** SIH26117
+  - **Theme:** Smart Automation
+  - **PS Category:** Software
+  - **Team ID:** TEAM ADRESTIA
+  - **SOVEREIGN AI WORKBENCH**
+    - Local OCR + Vision
+    - Private SOPs / Manuals
+    - Task-aware Model Router
+    - Multi-step work is manual
+    - Agent: Plan → Act → Verify
+
+- **INNOVATION & UNIQUENESS:** 
+  - **PROVABLE SOVEREIGNTY**
+    - No cloud dependency, no Internet, controlled egress
+  - **TASK-AWARE ROUTING**
+    - Task → best local model for each task
+  - **AGENTIC EXECUTION**
+    - Plan → tools → iterate → verify
+
+- **EVIDENCE-FIRST:** 
+  - Claims linked to source evidence
+  - Model-agnostic approach: New models plug in without redesigning the whole system
+
+- **MODEL-AGNOSTIC:**  
+  - New models can be added later without redesigning the whole system.
+
+- **OPEN-WEIGHT AI**
+  - No vendor lock-in
+  - Local knowledge: Private RAG
+  - Safe tooling: Sandboxed execution
+  - Measurable accuracy, latency, egress
+
+- **TODAY — FRAGMENTED WORK:**  
+  - Manual review of reports
+  - Multiple disconnected tools
+  - Cloud AI blocked by policy
+  - Answers are hard to audit
+
+- **WITH OUR WORKBENCH:**  
+  - One sovereign workspace: Agent plans + executes + verifies
+  - Local model selected per task
+  - Evidence + audit trail + deliverable
+  - FROM CONFIDENTIAL DATA TO DECISION-READY OUTPUT
+
+- **FEASIBILITY PROOF:**  
+  - Verified OUTPUT
+  - Agent + RAG + Tools: Open Source AI Models and Stack
+  - Impact Industries: Improved confidential industrial work processes with a single sovereign workspace.
+
+- **RESEARCH AND REFERENCES:**  
+  - Smart India Hackathon 2026 — Problem Statement SIH26117
+  - Qwen • Meta Llama • Mistral • Gemma – official model documentation
+
+- **OPEN-WE
+
+Evidence Sources:
+-----------------
+- final ppt sih adrestia.pptx, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+
+Problem Statement ID – SIH26117
+Problem Statement Title- “Sovereign On-Premise Ag

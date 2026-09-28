@@ -1,0 +1,42 @@
+Document Summary TASK-9D310609
+==============================
+
+Finding 1:
+**Title:** Sovereign AI Workbench for Confidential Industrial Work
+
+Finding 2:
+**Problem Statement ID:** SIH26117
+
+Finding 3:
+Problem: The PDF contains a problem statement titled "Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work".
+
+Finding 4:
+**Theme:** Smart Automation
+
+Finding 5:
+Theme: This workbench aims to address the challenges of working with confidential data and ensuring that industrial tasks are executed accurately.
+
+Finding 6:
+**Team ID:** TEAM ADRESTIA
+
+Finding 7:
+Team members:
+
+Finding 8:
+Adrestia (Lead)
+
+Finding 9:
+Adrestia (Member 1)
+
+Finding 10:
+Adrestia (Member 2)
+
+Evidence:
+- final ppt sih adrestia.pdf, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+• Problem Statement ID – SIH26117
+• Problem Statement Title- “Sovereign
+On-Premise
+
+Recommendation:
+**Title:** Sovereign AI Workbench for Confidential Industrial Work

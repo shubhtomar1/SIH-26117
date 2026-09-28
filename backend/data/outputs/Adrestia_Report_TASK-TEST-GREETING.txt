@@ -1,0 +1,6 @@
+Document Summary TASK-TEST-GREETING
+===================================
+
+Analysis & Generated Response:
+--------------------------------
+Hello! How can I assist you today?

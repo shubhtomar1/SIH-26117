@@ -1,0 +1,21 @@
+Approval Note TASK-912F5844
+===========================
+
+Finding 1:
+The PDF contains a multi-step process for handling confidential data, with tasks and models being created and executed using local OCR and vision technologies.
+
+Finding 2:
+The PDF outlines a scalable workflow for handling confidential data, including the creation of task plans and execution of local models with the use of best local OCR and vision models.
+
+Finding 3:
+The PDF emphasizes the innovation and uniqueness of the approach, focusing on the use of task-aware models, the use of private RAG (Reliable Automated Granting) to manage access to sensitive data, and the use of model-agnostic approaches to improve efficiency and accuracy.
+
+Evidence:
+- final ppt sih adrestia.pdf, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+• Problem Statement ID – SIH26117
+• Problem Statement Title- “Sovereign
+On-Premise
+
+Recommendation:
+The PDF contains a multi-step process for handling confidential data, with tasks and models being created and executed using local OCR and vision technologies.

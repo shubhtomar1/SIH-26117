@@ -1,0 +1,41 @@
+Approval Note TASK-25606317
+===========================
+
+Analysis & Generated Response:
+--------------------------------
+#### Analysis of Inspection Report:
+
+1. **Purpose & Standards:**
+   - The IT Security & Remote Work SOP defines mandatory security measures for 50+ Full-Time Staff operating across hybrid environments.
+   - Hardware & Password Governance:
+     - All corporate laptops must run company-managed Endpoint Detection & Response (EDR) software and keep BitLocker/FileVault disk encryption enabled.
+     - Authentication: Passwords are a minimum of 14 characters, stored using corporate password managers. Multi-Factor Authentication (MFA) is mandatory on all accounts (Google Workspace, GitHub, AWS).
+   - Remote Work & Network Access SOP:
+     - Staff connecting from remote locations or public Wi-Fi must route all traffic through the official NexusTech WireGuard VPN.
+     - Data Transfer Restrictions: Production datasets and customer Personal Identifiable Information (PII) cannot be downloaded onto personal devices or unencrypted USB drives.
+
+2. **Key Findings, Observations, & Potential Safety/Compliance Issues:**
+   - **BitLocker/FileVault Disruption:** All corporate laptops running company-managed EDR software must keep BitLocker/FileVault disk encryption enabled to prevent unauthorized access.
+     - Observation: This is a clear violation of the IT Security & Remote Work SOP. The requirement for BitLocker/FileVault disks should be enforced by all Full-Time Staff.
+
+   - **Password Management:** Passwords are minimum 14 characters and stored using corporate password managers, which may not meet legal requirements or best practices.
+     - Observation: This is a violation of the IT Security & Remote Work SOP. The use of corporate passwords for personal accounts should be strictly controlled to prevent unauthorized access.
+
+   - **Network Access Restrictions:** Staff connecting from remote locations must route all traffic through NexusTech's official WireGuard VPN, which may not meet legal requirements or best practices.
+     - Observation: This is a violation of the IT Security & Remote Work SOP. The use of non-standard network protocols (e.g., WireGuard) should be strictly controlled to prevent unauthorized access.
+
+   - **Data Transfer Restrictions:** Production datasets and customer Personal Identifiable Information (PII) cannot be downloaded onto personal devices or unencrypted USB drives.
+     - Observation: This is a violation of the IT Security & Remote Work SOP. The use of non-standard data transfer protocols should be strictly controlled to prevent unauthorized access.
+
+   - **Incident Response:** In case of a lost device or compromised credential, an employee should report to security@nexust
+
+Evidence Sources:
+-----------------
+- final ppt sih adrestia.pdf, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+• Problem Statement ID – SIH26117
+• Problem Statement Title- “Sovereign
+On-Premise
+- Adrestia_Report_TASK-CCF862E1.pdf, Page None: Document Summary TASK-CCF862E1
+Analysis & Generated Response
+ Purpose & Standards: The IT Security & Remote Work SOP de

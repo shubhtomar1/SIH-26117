@@ -1,0 +1,25 @@
+Document Summary TASK-TEST-CODE
+===============================
+
+Analysis & Generated Response:
+--------------------------------
+```python
+def add_two_numbers(a: float, b: float) -> float:
+    """
+    Adds two numbers a and b.
+
+    Parameters:
+        a (float): The first number.
+        b (float): The second number.
+
+    Returns:
+        float: The sum of the two numbers.
+    """
+    return a + b
+
+# Example usage
+result = add_two_numbers(3.5, 2.7)
+print(result)  # Output: 6.2
+```
+
+This Python function `add_two_numbers` takes two parameters, `a` and `b`, both of which must be floats (or any other numeric type), and returns their sum as a float. The docstring provides a clear description of the function's purpose, parameters, and return value. The example usage demonstrates how to call the function with specific numbers and print the result.

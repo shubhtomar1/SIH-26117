@@ -1,0 +1,22 @@
+Document Summary TASK-1D77A4A6
+==============================
+
+Analysis & Generated Response:
+--------------------------------
+| **Topic** | **Content** |
+| --- | --- |
+| SMART INDIA HACKATHON 2026 | The Smart India Hackathon 2026 is an initiative aimed at fostering innovation and collaboration among students, researchers, and professionals across various sectors. It aims to showcase the latest advancements in technology and its applications through a series of workshops and hackathons. |
+| **Problem Statement ID – SIH26117** | The problem statement for this project revolves around "Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work". This is an important issue as it addresses the need to ensure secure and controlled access to confidential data, which is critical in industries where sensitive information such as patents, trade secrets, or proprietary technologies are involved. |
+| **Theme - Smart Automation** | The theme of this project focuses on smart automation, emphasizing the use of AI and machine learning techniques for enhancing efficiency, reducing errors, and improving decision-making processes within organizations. This approach is particularly relevant in industries where data-driven decisions play a significant role, such as manufacturing or healthcare sectors. |
+| **PS Category - Software** | The software category includes various components that contribute to the overall success of this project, including AI models, tools, and infrastructure. These elements are crucial for ensuring the seamless integration and execution of the workbench functionalities. |
+| **Team ID- TEAM ADRESTIA** | Team members include Adrestia, a team dedicated to developing innovative solutions in the field of artificial intelligence (AI). The team's expertise lies in leveraging open-source technologies such as Qwen, Llama, Mistral, Gemma, PaddleOCR, and LangChain. |
+| **SOVEREIGN AI WORKBENCH** | This workbench aims at creating a platform where users can plan, execute, verify, and deliver their tasks based on local data sources like PDFs, images, drawings, code snippets, and private SOPs (Source Documentation). The goal is to ensure that the workflow adheres to security policies while maintaining control over sensitive information. |
+| **From Confidential Data → Verified Action** | This process involves scanning, image processing, drawing, coding, OCR (Optical Character Recognition), vision analysis, and local models for tasks such as planning, executing actions, verifying evidence, and delivering work. The workflow ensures that the data is processed locally without external access or cloud
+
+Evidence Sources:
+-----------------
+- final ppt sih adrestia.pptx, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+
+Problem Statement ID – SIH26117
+Problem Statement Title- “Sovereign On-Premise Ag

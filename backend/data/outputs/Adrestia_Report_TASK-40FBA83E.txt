@@ -1,0 +1,54 @@
+Document Summary TASK-40FBA83E
+==============================
+
+Analysis & Generated Response:
+--------------------------------
+#### 1. Executive Overview
+
+**Project Title:** Sovereign AI Workbench for Confidential Industrial Work [SIH26117]
+**Event/Initiative:** Smart India Hackathon 2026
+**Problem Statement ID:** SIH26117
+**Team Name:** TEAM ADRESTIA
+**Core Mission:** To develop a sovereign on-premise AI workbench using open-weight multimodal LLMs for confidential industrial work.
+
+#### 2. Problem Statement & Industrial Need
+
+The core problem is the lack of secure, controlled access to sensitive data within an organization's internal systems due to cloud AI restrictions and internet connectivity issues. This poses significant risks in industries such as healthcare, finance, and manufacturing where confidentiality is paramount.
+
+Cloud AI has been a major factor in these incidents, leading to data breaches and legal repercussions for organizations that do not have proper safeguards in place. The need for an on-premise AI solution addresses this by providing secure access to confidential data within the organization's premises without compromising security or privacy.
+
+#### 3. Proposed Solution & Architecture
+
+The proposed solution involves deploying a sovereign AI workbench using open-weight multimodal LLMs that can handle both local and remote tasks, ensuring controlled execution of AI models while maintaining evidence-based decision-making capabilities. The architecture includes:
+
+- **Input:** Local OCR + Vision data from scanned images.
+- **Understanding:** Private SOPs (e.g., RAG) for manual documentation.
+- **Retrieval:** Manual or automated tools to retrieve private documents and contracts.
+- **Planning:** Agent creates task plans based on tasks, models, and evidence.
+- **Execution:** Local AI models with access controlled by the sandbox environment.
+- **Verification:** Evidence-based verification of actions taken.
+- **Delivery:** Word, Excel, PPT, Code, Text outputs.
+
+#### 4. Key Innovations & Differentiators
+
+**Provable Sovereignty:**
+- No cloud dependency and internet restrictions.
+- Controlled egress through security gates (e.g., RAG).
+- Local AI models with proven control over sensitive data.
+- Evidence-based decision-making without redesigning the core system.
+
+**Task-Aware Routing:**
+- Task-specific local models for each task, ensuring efficient execution of specific workflows.
+- Best local OCR + Vision model selection per task to maintain accuracy and speed.
+
+**Agentic Execution:**
+- Model routing based on best local AI models for each task, reducing reliance on external vendors.
+-
+
+Evidence Sources:
+-----------------
+- final ppt sih adrestia.pdf, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+• Problem Statement ID – SIH26117
+• Problem Statement Title- “Sovereign
+On-Premise

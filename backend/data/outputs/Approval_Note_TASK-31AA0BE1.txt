@@ -1,0 +1,48 @@
+Approval Note TASK-31AA0BE1
+===========================
+
+Finding 1:
+**Input:**
+
+Finding 2:
+**PDF:** Scan, image, and draw.
+
+Finding 3:
+**OCR:** Local OCR + Vision.
+
+Finding 4:
+**Drawing:** Drawing.
+
+Finding 5:
+**Code:** Code.
+
+Finding 6:
+**Understand:**
+
+Finding 7:
+**Local OCR:** Processed using a best local OCR model for local OCR.
+
+Finding 8:
+**Vision:** Processed using a best local Vision model for vision tasks.
+
+Finding 9:
+**Retrieve:**
+
+Finding 10:
+**Private SOPs:** Local SOPs or manuals.
+
+Finding 11:
+**Manuals:** Original SOPs or manuals.
+
+Finding 12:
+**Plan:**
+
+Evidence:
+- final ppt sih adrestia.pdf, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+• Problem Statement ID – SIH26117
+• Problem Statement Title- “Sovereign
+On-Premise
+
+Recommendation:
+**Input:**

@@ -1,0 +1,56 @@
+Document Summary TASK-3E54D148
+==============================
+
+Analysis & Generated Response:
+--------------------------------
+- **Title:** Sovereign AI Workbench for Confidential Industrial Work
+- **Problem Statement ID:** SIH26117
+  - Problem: The current approach to confidential industrial work involves centralized cloud AI systems that are blocked by security policies and require manual intervention.
+  - Solution: We propose a sovereign AI workspace using open-weight multimodal LLMs, enabling on-premise agentic AI workflows for confidential data.
+
+- **Theme:** Smart Automation
+  - Theme: The focus is on automating industrial processes through intelligent automation.
+
+- **Team ID:** TEAM ADRESTIA
+  - Team Members:
+    - Adrestia (Lead)
+    - Adrestia (Member 1)
+    - Adrestia (Member 2)
+
+- **Problem Statement Title:** "Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work"
+
+- **Team Name:** TEAM ADRESTIA
+
+### Detailed Solution:
+#### INPUT
+- PDF: Scan, Image, Drawing → Code
+- Local OCR + Vision tools (OCR AI and Vision)
+- Private SOPs / Manuals → Manual data management
+- Open-source models from Qwen, Llama, Mistral, Gemma → Model selection
+
+#### UNDERSTANDING
+Local OCR + Vision tools are used to extract text and images from PDFs. This allows for the creation of task plans using local OCR and vision capabilities.
+
+#### RETRIEVE
+Private SOPs / Manuals: Local models (OCR AI) can be retrieved without needing a central database, allowing for quick access to existing documentation.
+
+#### PLAN
+Agent creates a task plan based on the extracted data from PDFs. This plan is then executed by the model using local OCR and vision capabilities.
+
+#### EXECUTE
+Local models + tools are used to automate tasks such as document analysis, image processing, and data extraction.
+
+- **Model Selection:** The agent selects the best local model for each task based on its performance in previous experiments.
+  - Example: Qwen is chosen for text-based tasks due to its ability to handle complex natural language processing (NLP) tasks efficiently.
+
+#### VERIFY/ RERANK
+Sandbox + evidence, select the best answer → Evidence-driven decision-making process ensures that only the most accurate and relevant information is used in the model's output.
+- **Evidence:** The agent uses a sandbox environment where it can test different models to identify the best one for each task
+
+Evidence Sources:
+-----------------
+- final ppt sih adrestia.pdf, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+• Problem Statement ID – SIH26117
+• Problem Statement Title- “Sovereign
+On-Premise

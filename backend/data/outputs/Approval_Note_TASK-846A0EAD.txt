@@ -1,0 +1,16 @@
+Approval Note TASK-846A0EAD
+===========================
+
+Finding 1:
+Pressure reading 8.6 bar exceeds the permitted 7.5 bar threshold.
+
+Finding 2:
+Lockout-tagout record missing for the 14 Feb maintenance window.
+
+Finding 3:
+Flange assembly A-2 torque below specification on 3 of 12 bolts.
+
+Evidence:
+
+Recommendation:
+Pressure reading 8.6 bar exceeds the permitted 7.5 bar threshold.

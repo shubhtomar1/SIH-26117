@@ -1,0 +1,42 @@
+Document Summary TASK-5357BF82
+==============================
+
+Finding 1:
+**Title:** Sovereign AI Workbench for Confidential Industrial Work
+
+Finding 2:
+**Problem Statement ID:** SIH26117
+
+Finding 3:
+**Problem Statement Title:** "Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work"
+
+Finding 4:
+**Theme:** Smart Automation
+
+Finding 5:
+**PS Category:** Software
+
+Finding 6:
+**Team ID:** TEAM ADRESTIA
+
+Finding 7:
+**Input:**
+
+Finding 8:
+PDF, Scan, Image, Drawing, Code → Understand Local OCR + Vision → Retrieve Private SOPs / Manuals → Plan Agent creates task plan → Execute Local models + tools → Verify and Rerank Sandbox + evidence, select the best answer → Deliver Word, Excel, PPT, Code, Text
+
+Finding 9:
+**How It Addresses the Problem:**
+
+Finding 10:
+Cloud AI blocked
+
+Evidence:
+- final ppt sih adrestia.pdf, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+• Problem Statement ID – SIH26117
+• Problem Statement Title- “Sovereign
+On-Premise
+
+Recommendation:
+**Title:** Sovereign AI Workbench for Confidential Industrial Work

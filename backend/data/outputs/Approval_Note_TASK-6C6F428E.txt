@@ -1,0 +1,18 @@
+Approval Note TASK-6C6F428E
+===========================
+
+Finding 1:
+Document content:
+
+Finding 2:
+It provides a detailed solution for planning, executing, and validating the workbench, including the use of Open-Weight multilabel learning models and local OCR and vision technologies. The document also discusses the importance of the cloud AI platform and the need for a sandbox for testing and validating the workbench.
+
+Evidence:
+- final ppt sih adrestia.pdf, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+• Problem Statement ID – SIH26117
+• Problem Statement Title- “Sovereign
+On-Premise
+
+Recommendation:
+Document content:

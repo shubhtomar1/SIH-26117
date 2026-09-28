@@ -1,0 +1,76 @@
+Document Summary TASK-1B08114D
+==============================
+
+Analysis & Generated Response:
+--------------------------------
+#### SMART INDIA HACKATHON 2026
+- **Problem Statement ID:** SIH26117
+- **Problem Statement Title:** "Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work"
+  
+#### Theme: Smart Automation
+
+##### PS Category:
+- Software
+- Team ID:
+
+---
+
+### SOVEREIGN AI WORKBENCH
+From Confidential Data → Verified Action
+
+1. **Detailed Solution**
+   - **Input:** PDF, Scan, Image, Drawing, Code -> Understand Local OCR + Vision.
+     - Retrive Private SOPs / Manuals -> Plan Agent creates task plan.
+     - Execute Local models + tools -> Verify/Sandbox evidence, select best answer.
+
+2. **How It Addresses the Problem:**
+
+  * Cloud AI blocked → On-premise/Air-gapped AI
+    - Scanned + multimodal data → Best local OCR + Vision model
+      - Different tasks/models → Task-aware Model Router
+        - Multi-step work is manual → Agent plans, acts, verifies.
+  
+3. **Innovation & Uniqueness:**
+  * **Provable Sovereignty:** No cloud dependency, no Internet access; controlled egress.
+  * **Task-Aware Routing:** Task → best local model for each task.
+  * **Agentic Execution:** Plan → tools → iterate → verify knowledge in internal docs.
+
+4. **Controlled Execution:**
+
+  - **Sandboxed Code:** Sandbox + approval + audit
+  - **Model-agnostic:** New models plug into without redesigning the whole system
+
+5. **Evidence-Focused Work:**
+  
+  * **Model-Agnostic:** New models can be added later without redesign.
+  * **New Models Plug in Without Redesign:** No need to redesign entire systems.
+
+6. **Confidential Data → Verified Action**
+
+  - One sovereign workspace
+    - Agent plans, executes, verifies
+    - Local model selected per task
+    - Evidence + audit trail + deliverable
+
+#### TEAM ADRESTIA
+
+- **Team ID:**
+  - Team Name: TEAM ADRESTIA
+
+---
+
+### TECHNICAL APPROACH:
+3@SIH Idea submission-template
+USER REQUEST (INPUT)
+(PDF, Image, Text, Code)
+
+Policy / Security Gate: Check if internet is closed and perform other security checks.
+AGENT ORCHESTRATOR (PLAN -> ACT ->
+
+Evidence Sources:
+-----------------
+- final ppt sih adrestia.pdf, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+• Problem Statement ID – SIH26117
+• Problem Statement Title- “Sovereign
+On-Premise

@@ -1,0 +1,52 @@
+Document Summary TASK-FC7ECFE4
+==============================
+
+Analysis & Generated Response:
+--------------------------------
+#### 1. Project Overview
+
+**Project Title:** Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work
+
+**Problem Statement ID: SIH26117**
+
+**Team Name/Author:** TEAM ADRESTIA
+
+**Theme:** Smart Automation
+
+#### 2. Context & Problem Statement
+The problem statement identifies a critical challenge in the current context, which is to address the operational difficulty of securing confidential data within an on-premise environment while ensuring that AI-driven solutions are secure and reliable.
+
+#### 3. Technical Solution & Architecture
+The technical solution addresses the core challenges by leveraging open-source technologies such as Qwen (Qwen), Meta Llama, Mistral, Gemma, PaddleOCR, OCR + VLM pipelines, LangChain, LlamaIndex, Haystack, FAISS, and Qdrant to create a sovereign AI workbench. The architecture is modularized with the following components:
+
+- **Model Router:** Local models are selected per task for efficient execution.
+- **Task-Aware Model Router:** Ensures that each model performs best according to its specific tasks.
+- **Multi-step Work:** Automated workflows involving multiple steps, including data scanning, multimodal processing, and verification of actions.
+
+#### 4. Key Innovations & Security
+The key innovations include:
+- **Open-Weight AI:** Utilizing open-source models with locally deployed components that can evolve without redesigning the core.
+- **Local OCR + Vision Models:** Leveraging local OCR and vision capabilities to improve accuracy in data processing tasks.
+- **Private RAG (Rag-Aggregation):** Aggregating private source documents for a more secure and controlled execution environment.
+
+#### 5. Practical Impact & Deliverables
+The project aims to:
+- Ensure the security of confidential data within an on-premise AI workbench, reducing risks associated with cloud-based solutions.
+- Provide a sovereign AI platform that can be deployed in various industries without compromising on control or scalability.
+- Offer tools and processes for automated verification and approval workflows.
+
+#### 6. Feasibility & Viability
+The feasibility of the project is supported by:
+- **Open-Weight:** No vendor lock-in, allowing for controlled execution with minimal redesigning of core components.
+- **Local Knowledge:** Leveraging proven open technologies to ensure secure and reliable AI-driven solutions within a sovereign environment.
+
+#### 7. Impact on Industry
+**Industry
+
+Evidence Sources:
+-----------------
+- final ppt sih adrestia.pptx, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+
+Problem Statement ID – SIH26117
+Problem Statement Title- “Sovereign On-Premise Ag

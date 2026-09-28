@@ -1,0 +1,23 @@
+Approval Note TASK-B44B269D
+===========================
+
+Finding 1:
+Pressure reading 8.6 bar exceeds the permitted 7.5 bar threshold.
+
+Finding 2:
+Lockout-tagout record missing for the 14 Feb maintenance window.
+
+Finding 3:
+Flange assembly A-2 torque below specification on 3 of 12 bolts.
+
+Evidence:
+- karnal.jpeg, Page None: (binary/unextracted file: karnal.jpeg)
+- o level registaration form.pdf, Page None: National Institute of Electronics and Information Technology
+Ministry of Electronics and Information Technology, Governm
+- Safety_Manual.txt, Page None: SAFETY MANUAL 2026 — Inspection Requirements.
+Section 4.2: Pressure vessels shall not exceed 7.5 bar under routine opera
+- Maintenance_Guidelines.txt, Page None: ssembly A-2 fasteners shall be torqued to 220 Nm +/- 5 Nm and re-verified after thermal cycle.
+- Turbine_SOP.txt, Page None: activity shall commence without a signed lockout-tagout certificate attached to the work order. Maximum operating pressu
+
+Recommendation:
+Pressure reading 8.6 bar exceeds the permitted 7.5 bar threshold.

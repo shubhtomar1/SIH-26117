@@ -1,0 +1,18 @@
+Document Summary TASK_TEST_456
+==============================
+
+Analysis & Generated Response:
+--------------------------------
+### Overview
+Here is the summary of the confidential industrial document:
+
+- **Title**: Sovereign AI Workbench for Confidential Industrial Work
+- **Problem Statement ID**: SIH26117
+  - Problem: Cloud-based AI solutions are blocked by industrial air-gaps and security boundaries.
+  - Solution: An air-gapped agentic AI workbench with local OCR and verifiable audit trails.
+
+- **Theme**: Smart Automation & Industrial Security
+
+Evidence Sources:
+-----------------
+- proposal.pdf, Page 1: Sovereign AI workbench for confidential industrial work.

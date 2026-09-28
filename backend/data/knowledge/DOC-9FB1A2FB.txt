@@ -1,0 +1,2 @@
+TURBINE SOP v3 — Pressure Systems.
+Section 7.2: No maintenance activity shall commence without a signed lockout-tagout certificate attached to the work order. Maximum operating pressure 7.5 bar.

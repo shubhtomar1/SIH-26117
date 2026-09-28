@@ -1,0 +1,59 @@
+Document Summary TASK-91CC3C7F
+==============================
+
+Analysis & Generated Response:
+--------------------------------
+#### 1. Document / Executive Overview
+
+**Document Title:** SIH26117 - Sovereign On-Premise Agentic AI Workbench for Confidential Industrial Work
+
+**Issue Statement ID:** SIH26117
+
+**Problem Statement Title:** "Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work"
+
+---
+
+#### 2. Context & Background
+
+This document is a part of the Smart India Hackathon 2026, focusing on an innovative solution to address the challenges associated with confidential industrial work through the use of open-weight multimodal LLMs and local OCR + vision models.
+
+The core objective of this project is to develop a sovereign AI workbench that can seamlessly integrate private data sources (OCR) and external APIs while maintaining privacy. The document outlines the technical specifications, architecture, key modules, and specific requirements for achieving this goal.
+
+---
+
+#### 3. Core Provisions & Specifications
+
+**Key Provisions:**
+- **Cloud AI Blocked:** Ensures a secure environment to avoid cloud dependency.
+- **On-premise/Air-Gapped AI:** Uses local OCR + vision models without internet access or controlled egress.
+- **Task-Aware Model Router:** Manages task-specific model selection and execution for each task.
+
+**Architecture:**
+- **Local OCR + Vision Models:** Different tasks are handled by different models to ensure efficient data processing.
+- **Model Routing:** Local models route requests based on the current task, reducing redundancy and improving efficiency.
+- **Task-aware Model Router:** Ensures that local models are selected per task for optimal performance.
+
+**Key Modules:**
+- **OCR AI:** Handles OCR tasks using PaddleOCR or similar tools.
+- **LLM / VLMs:** Uses Qwen, Llama, Mistral, Gemma, and other open-source models to generate text-based responses.
+- **Model Routing:** Local models are selected per task for efficient execution.
+
+**Key Specifications:**
+- **Local OCR + Vision Models:** Ensure secure data handling with PaddleOCR or similar tools.
+- **Task-Aware Model Router:** Efficient model selection based on current tasks, reducing redundancy and improving performance.
+- **Sandboxed Tools:** Allows sandboxing of models without the need for a full system.
+
+---
+
+#### 4. Key Directives, Action Items & Innovations
+
+**Directives:**
+- Ensure secure data handling with Paddle
+
+Evidence Sources:
+-----------------
+- final ppt sih adrestia.pdf, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+• Problem Statement ID – SIH26117
+• Problem Statement Title- “Sovereign
+On-Premise

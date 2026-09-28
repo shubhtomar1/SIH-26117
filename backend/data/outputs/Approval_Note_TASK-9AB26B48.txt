@@ -1,0 +1,42 @@
+Approval Note TASK-9AB26B48
+===========================
+
+Finding 1:
+Document Content and Title Page:
+
+Finding 2:
+Title Page:
+
+Finding 3:
+Title: SMART INDIA HACKATHON 2026
+
+Finding 4:
+Problem Statement ID: SIH26117
+
+Finding 5:
+Problem Statement Title: "Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work"
+
+Finding 6:
+Theme: Smart Automation
+
+Finding 7:
+PS Category: Software
+
+Finding 8:
+Team ID:
+
+Finding 9:
+Team Name: TEAM ADRESTIA
+
+Finding 10:
+Sovereign AI Workbench:
+
+Evidence:
+- final ppt sih adrestia.pdf, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+• Problem Statement ID – SIH26117
+• Problem Statement Title- “Sovereign
+On-Premise
+
+Recommendation:
+Document Content and Title Page:

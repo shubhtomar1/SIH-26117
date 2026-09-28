@@ -1,0 +1,70 @@
+Document Summary TASK-31DB9DE7
+==============================
+
+Analysis & Generated Response:
+--------------------------------
+- **Title:** Sovereign AI Workbench for Confidential Industrial Work (Sih26117)
+  - Problem Statement: The problem is to create an open-source platform that can handle confidential industrial work using on-premise agentic AI models.
+  
+- **Team ID and Name:** TEAM ADRESTIA
+  - Team Members:
+    - Adrestia
+    - Adrestia
+
+- **Theme:** Smart Automation, Open-Weight Multimodal LLMs for Confidential Industrial Work
+  
+- **Document Content:**
+  - Problem Statement (SIH26117): The document outlines a problem statement related to the creation of an open-source platform that can handle confidential industrial work using on-premise agentic AI models.
+  
+  - Theme: Smart Automation
+    - Description: The theme revolves around automation and intelligent systems for managing confidential data.
+
+- **Team Members:** Adrestia
+
+- **Document Content (continued):**
+  - Problem Statement ID – SIH26117
+  - Problem Statement Title: "Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work"
+  
+  - Theme: Smart Automation
+  
+  - PS Category: Software
+
+  - Team ID:
+    - Adrestia
+  
+  - Team Name: TEAM ADRESTIA
+  - Policy/Security Gate (Policy / Security Gate): The team has a policy and security gate to ensure that the platform is secure, controlled, and compliant with regulations.
+  
+- **Technical Approach:** 
+  - User Request (Input):
+    - PDF • Scan • Image • Drawing • Code
+  
+  - Local OCR + Vision: To extract text from images and drawings using local OCR technology.
+
+  - Private SOPs / Manuals: To collect detailed information about the platform, including documentation and manuals.
+  
+- **Plan:** 
+  - Agent creates a task plan
+  - Local models are selected for each task
+  - Tools are created to automate tasks
+  
+- **Execution:** 
+  - Local models are deployed on an infrastructure that is secure and controlled by the team.
+
+- **Verification:**
+  - The sandbox environment is verified, and evidence is collected.
+  
+- **Delivery:**
+  - Word, Excel, PPT, Code, Text
+  - Deliverables include a word document, an excel file, a ppt presentation, code files, and text documents.
+
+Evidence Sources:
+-----------------
+- final ppt sih adrestia.pdf, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+• Problem Statement ID – SIH26117
+• Problem Statement Title- “Sovereign
+On-Premise
+- Adrestia_Report_TASK-CCF862E1.pdf, Page None: Document Summary TASK-CCF862E1
+Analysis & Generated Response
+ Purpose & Standards: The IT Security & Remote Work SOP de

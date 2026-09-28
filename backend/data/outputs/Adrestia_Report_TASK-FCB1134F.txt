@@ -1,0 +1,66 @@
+Document Summary TASK-FCB1134F
+==============================
+
+Analysis & Generated Response:
+--------------------------------
+- **Title**: Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work
+- **Problem Statement ID**: SIH26117
+  - Problem: The current approach to industrial work involves centralized AI systems that are vulnerable to cloud and internet-based attacks.
+  - Theme: Smart Automation
+  - PS Category: Software
+
+- **Team ID**:
+  - Team Name: TEAM ADRESTIA
+  - Team Members:
+
+  - **Adrestia**: A team of experts in artificial intelligence, machine learning, and software development focused on creating a secure, scalable, and autonomous AI platform for confidential industrial work.
+  
+- **SOVEREIGN AI WORKBENCH**:
+  - The Sovereign AI Workbench aims to address the challenges associated with centralized AI systems by providing an open-source, locally deployed solution that can be easily scaled up or down based on specific needs.
+
+- **From Confidential Data → Verified Action**: 
+  - This process involves scanning and visualizing confidential data from various sources.
+  
+- **1. DETAILED SOLUTION**:
+  - The detailed solution includes the following components:
+
+    - **Local OCR + Vision**: Utilizes local optical character recognition (OCR) and computer vision models to extract relevant information from scanned documents.
+
+    - **Private SOPs / Manuals**: Retrieves private source documentation, manuals, and other technical specifications for each task.
+  
+- **RETRIEVE**:
+  - The retrieval process involves:
+
+    - **Private RAG + Source Grounding**: Uses a Private Research and Analysis Group (RAG) to gather detailed information from the sources.
+
+- **PLAN**:
+  - The plan includes:
+
+    - **Agent Creation**: Plans for creating tasks, tools, and verifying actions.
+  
+- **EXECUTE**:
+  - Execution involves:
+
+    - **Local Models + Tools**: Uses local models and tools provided by the team to execute each task.
+  
+- **VERIFY/ RERANK**:
+  - Verification includes:
+
+    - **Sandbox + Evidence Selection**: Selects evidence for verification based on its relevance.
+
+- **DELIVER**:
+  - Deliverables include:
+
+    - **Word, Excel, PPT, Code, Text**
+
+- **2. HOW IT ADDRESSES THE PROBLEM**:
+  
+  - The Sovereign AI Workbench addresses the problem by providing a secure and scalable solution that can be easily deployed in
+
+Evidence Sources:
+-----------------
+- final ppt sih adrestia.pptx, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+
+Problem Statement ID – SIH26117
+Problem Statement Title- “Sovereign On-Premise Ag

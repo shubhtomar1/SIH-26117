@@ -1,0 +1,19 @@
+Approval Note TASK-9D2C0F8F
+===========================
+
+Finding 1:
+Pressure reading 8.6 bar exceeds the permitted 7.5 bar threshold.
+
+Finding 2:
+Lockout-tagout record missing for the 14 Feb maintenance window.
+
+Finding 3:
+Flange assembly A-2 torque below specification on 3 of 12 bolts.
+
+Evidence:
+- Safety_Manual.txt, Page None: ure vessels shall not exceed 7.5 bar under routine operation. Any reading above this threshold must be flagged as a safe
+- Maintenance_Guidelines.txt, Page None: MAINTENANCE GUIDELINES — Torque and Fastening.
+Section 4.1: Flange assembly A-2 fasteners shall be torqued to 220 Nm +/-
+
+Recommendation:
+Pressure reading 8.6 bar exceeds the permitted 7.5 bar threshold.

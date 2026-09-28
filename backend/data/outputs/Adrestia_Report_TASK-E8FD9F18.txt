@@ -1,0 +1,56 @@
+Document Summary TASK-E8FD9F18
+==============================
+
+Analysis & Generated Response:
+--------------------------------
+- **Title:** Sovereign On-Premise Agentic AI Workbench for Confidential Industrial Work (Sih26117)
+  - **Problem Statement:** The problem is to create an open-source platform that can handle confidential industrial work using on-premise agentic AI models.
+  
+- **Team ID and Name:** TEAM ADRESTIA
+  - **Member 1:** Adrestia
+  - **Member 2:** Adrestia
+
+- **Theme: Smart Automation, Open-Weight Multimodal LLMs for Confidential Industrial Work**
+  - **Description:** The theme revolves around automation and intelligent systems for managing confidential data.
+  
+- **Document Content (continued):**
+  - **Problem Statement ID – SIH26117**:
+    - **Title:** "Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work"
+    
+- **Theme: Smart Automation**
+  - **Description:** The theme focuses on automation and intelligent systems that manage confidential data.
+  
+- **Team Members:**
+  - **Adrestia** (local model selection)
+  - **Adrestia** (tools creation)
+
+- **Document Content (continued):**
+  - **Problem Statement ID – SIH26117**
+    - **Title:** "Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work"
+  
+- **Theme: Smart Automation**
+  - **Description:** The theme emphasizes the use of automation and intelligent systems to manage confidential data.
+  
+- **PS Category: Software**
+  - **Team ID:**
+    - **Adrestia** (local models)
+    
+- **Policy/Security Gate (Policy / Security Gate):**
+  - **The team has a policy and security gate to ensure that the platform is secure, controlled, and compliant with regulations.**
+
+- **Technical Approach:**
+  - **User Request:** 
+    - **Input:** PDF scan, image drawing, code
+    - **Local OCR + Vision:** To extract text from images and drawings using local OCR technology.
+    - **Private SOPs / Manuals:** To collect detailed information about the platform, including documentation and manuals.
+
+- **Plan:**
+  - **Agent creates a task plan**:
+    - **Local models are selected for each task**
+    - **Tools are created to automate tasks
+
+Evidence Sources:
+-----------------
+- Adrestia_Report_TASK-31DB9DE7.pdf, Page None: Document Summary TASK-31DB9DE7
+Analysis & Generated Response
+ Title: Sovereign AI Workbench for Confidential Industrial

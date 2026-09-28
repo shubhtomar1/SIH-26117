@@ -1,0 +1,4 @@
+SAFETY MANUAL 2026 — Inspection Requirements.
+Section 4.2: Pressure vessels shall not exceed 7.5 bar under routine operation. Any reading above this threshold must be flagged as a safety violation and escalated for approval.
+Section 4.9: Vibration exceeding 2.8 mm/s requires documented root-cause analysis before clearance.
+Section 7: Lockout-tagout certificate is mandatory before any maintenance activity.

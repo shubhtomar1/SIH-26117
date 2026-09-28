@@ -1,0 +1,67 @@
+Document Summary TASK-A13CF2B0
+==============================
+
+Analysis & Generated Response:
+--------------------------------
+- **Title**: Sovereign AI Workbench for On-Premise Agentic AI
+- **Problem Statement ID**: SIH26117
+  - Problem: Confidential data needs to be processed and verified locally.
+  - Theme: Smart Automation
+  - PS Category: Software
+  - Team ID:
+    - TEAM ADRESTIA
+
+- **Team Name**: TEAM ADRESTIA
+- **Input**:
+  - PDF, Image, Drawing (drawing), Code (code)
+  - Local OCR + Vision models
+  - Private SOPs and manuals
+  - Task-specific local models with tools
+  - Sandbox verification of evidence
+  - Evidence-based decision-making
+
+- **Detailed Solution**: 
+  1. **Input**:
+    - PDF, Image, Drawing (drawing), Code (code)
+    - Local OCR + Vision models
+    - Private SOPs and manuals
+    - Task-specific local models with tools
+    - Sandbox verification of evidence
+  2. **Understand**:
+    - Local OCR + Vision models for data processing
+    - Private SOPs and manuals to guide tasks
+    - Task-specific local models ready for use
+  3. **Plan**:
+    - Agent creates a task plan
+    - Local models are selected per task
+    - Tools are used to verify evidence
+  4. **Execute**:
+    - Local models run on the agent's device
+    - Evidence is verified and tools are updated accordingly
+
+- **Verification/Reordering**: 
+  - The sandbox environment ensures that all necessary steps have been taken.
+  - Evidence-based decision-making supports a more accurate output.
+
+- **Delivery**:
+  - Word, Excel, PPT, Code, Text (code generation)
+  - Local models selected per task
+  - Tools used to verify evidence
+
+- **Output Format**: 
+  - PDF, Image, Drawing (drawing), Code (code)
+
+- **Team Description**: 
+  - TEAM ADRESTIA: An on-premise industrial AI assistant team focused on developing a sovereign AI workbench using open-weight multimodal LLMs for confidential industrial work.
+
+- **Technical Approach**:
+  - The solution combines proven open technologies into one sovereign, multimodal and agentic workflow.
+  - It uses local OCR + Vision models to process data locally, while private SOPs and manuals guide tasks. Task-specific local models are ready for use with tools like sandbox verification of
+
+Evidence Sources:
+-----------------
+- final ppt sih adrestia.pdf, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+• Problem Statement ID – SIH26117
+• Problem Statement Title- “Sovereign
+On-Premise

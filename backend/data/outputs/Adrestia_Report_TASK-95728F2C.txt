@@ -1,0 +1,64 @@
+Document Summary TASK-95728F2C
+==============================
+
+Analysis & Generated Response:
+--------------------------------
+Certainly! Based on the provided reference context from Adrestia's reports and presentations:
+
+1. **Understand**:
+   - Local OCR + Vision: To extract text from images and drawings using local OCR technology.
+   - Private SOPs / Manuals: To collect detailed information about the platform, including documentation and manuals.
+
+2. **Retrieve**:
+   - PDF
+   - Scan
+   - Image
+   - Drawing
+   - Code
+
+3. **Plan**:
+   - Agent creates a task plan
+   - Local models are selected for each task
+   - Tools are created to automate tasks
+
+4. **Execute**:
+   - Local models + tools
+
+5. **Verify/ Rerank**:
+   - Sandbox + evidence, select the best answer
+
+6. **Deliver**:
+   - Word
+   - Excel
+   - PPT
+   - Code
+   - Text
+
+Evidence Sources:
+-----------------
+- Adrestia_Report_TASK-31DB9DE7.pdf, Page None: 
+ Technical Approach:
+ User Request (Input):
+ PDF  Scan  Image  Drawing  Code
+ Local OCR + Vision: To extract te
+- adrestia ppt 2.pptx, Page None: tial Data → Verified Action
+1  DETAILED SOLUTION
+
+
+INPUT
+PDF • Scan • Image • Drawing • Code
+→
+
+
+UNDERSTAND
+Local OCR + 
+- final ppt sih adrestia.pdf, Page None:  Data → Verified Action
+1  DETAILED SOLUTION
+INPUT
+PDF • Scan • 
+Image • Drawing 
+• Code
+→
+ UNDERSTAND
+Local OCR + 
+Visi

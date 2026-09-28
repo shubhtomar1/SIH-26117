@@ -1,0 +1,36 @@
+Approval Note TASK-FDB85D94
+===========================
+
+Finding 1:
+Document content: [UNTRUSTED DOCUMENT final ppt sih adrestia.pdf]: TITLE PAGE SMART INDIA HACKATHON 2026 • Problem Statement ID – SIH26117 • Problem Statement Title- “Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work” • Theme - Smart Automation • PS Category- Software • Team ID- • Team Name – TEAM ADRESTIA SOVEREIGN AI WORKBENCH From Confidential Data → Verified Action 1  DETAILED SOLUTION INPUT PDF • Scan • Image • Drawing • Code → UNDERSTAND Local OCR + Vision → RETRIEVE Private SOPs / Manuals → PLAN Agent creates task plan → EXECUTE Local models + tools → VERIFY/ Rerank Sandbox + evidence, select the best answer → DELIVER Word , Excel , PPT , Code, Text 2  HOW IT ADDRESSES THE PROBLEM Cloud AI blocked → On-premise / air-gapped AI Scanned + multimodal data → Best Local OCR + Vision Model Different tasks / models → Task-aware Model Router Multi-step work is manual → Agent: Plan → Act → Verify Knowledge in internal docs → Private RAG + source grounding AI output needs control → Sandbox + approval + audit 3  INNOVATION & UNIQUENESS 01  PROVABLE SOVEREIGNTY No cloud dependency ,No Internet, controlled egress 02  TASK-AWARE ROUTING Task → best local modelfor each task 03  AGENTIC EXECUTION Plan → tools → iterate → verify 04  EVIDENCE-FIRST Claims linked to source evidence 05  MODEL-AGNOSTIC New models plug in without redesign CONFIDENTIAL DATA  →  LOCAL AI  →  VERIFIED WORK  →  REAL DELIVERABLE TEAM ADRESTIA TECHNICAL APPROACH 3@SIH Idea submission- Template
+
+Finding 2:
+Document content: Problem Statement ID – SIH26117 Problem Statement Title – “Sovereign On-Premise Agentic AI Workbench” Theme – Smart Automation PS Category – Software Team ID - Team Name – TEAM ADRESTIA
+
+Finding 3:
+Document content: Solution: INPUT PDF • Scan • Image • Drawing • Code → UNDERSTAND Local OCR + Vision → RETRIEVE Private SOPs / Manual → PLAN Agent creates task plan → EXECUTE Local models + tools → VERIFY/ rerank Sandbox + evidence, select best answer → DELIVER Word, Excel, PPT, Code, Text
+
+Finding 4:
+Document content: Problem Statement Title – “Sovereign On-Premise Agentic AI Workbench” Theme – Smart Automation PS Category – Software Team ID - Team Name – TEAM ADRESTIA
+
+Finding 5:
+Document content:
+
+Finding 6:
+Document content: Solution: INPUT PDF • Scan • Image • Drawing • Code → UNDERSTAND Local OCR + Vision → RETRIEVE Private SOPs / Manual → PLAN Agent creates task plan → EXECUTE Local models + tools → VERIFY/ rerank Sandbox + evidence, select best answer → DELIVER Word , Excel , PPT , Code , Text
+
+Finding 7:
+Document content: Problem Statement ID – SIH26117 Solution: INPUT PDF • Scan • Image • Drawing • Code → UNDERSTAND Local OCR + Vision → RETRIEVE Private SOPs / Manual → PLAN Agent creates task plan → EXECUTE Local models + tools → VERIFY/ rerank Sandbox + evidence, select best answer → DELIVER Word , Excel , PPT , Code , Text
+
+Finding 8:
+Document content: 29
+
+Evidence:
+- final ppt sih adrestia.pdf, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+• Problem Statement ID – SIH26117
+• Problem Statement Title- “Sovereign
+On-Premise
+
+Recommendation:
+Document content: [UNTRUSTED DOCUMENT final ppt sih adrestia.pdf]: TITLE PAGE SMART INDIA HACKATHON 2026 • Problem Statement ID – SIH26117 • Problem Statement Title- “Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work” • Theme - Smart Automation • PS Category- Software • Team ID- • Team Name – TEAM ADRESTIA SOVEREIGN AI WORKBENCH From Confidential Data → Verified Action 1  DETAILED SOLUTION INPUT PDF • Scan • Image • Drawing • Code → UNDERSTAND Local OCR + Vision → RETRIEVE Private SOPs / Manuals → PLAN Agent creates task plan → EXECUTE Local models + tools → VERIFY/ Rerank Sandbox + evidence, select the best answer → DELIVER Word , Excel , PPT , Code, Text 2  HOW IT ADDRESSES THE PROBLEM Cloud AI blocked → On-premise / air-gapped AI Scanned + multimodal data → Best Local OCR + Vision Model Different tasks / models → Task-aware Model Router Multi-step work is manual → Agent: Plan → Act → Verify Knowledge in internal docs → Private RAG + source grounding AI output needs control → Sandbox + approval + audit 3  INNOVATION & UNIQUENESS 01  PROVABLE SOVEREIGNTY No cloud dependency ,No Internet, controlled egress 02  TASK-AWARE ROUTING Task → best local modelfor each task 03  AGENTIC EXECUTION Plan → tools → iterate → verify 04  EVIDENCE-FIRST Claims linked to source evidence 05  MODEL-AGNOSTIC New models plug in without redesign CONFIDENTIAL DATA  →  LOCAL AI  →  VERIFIED WORK  →  REAL DELIVERABLE TEAM ADRESTIA TECHNICAL APPROACH 3@SIH Idea submission- Template

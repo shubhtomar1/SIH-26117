@@ -1,0 +1,62 @@
+Document Summary TASK-TESTPPT
+=============================
+
+Analysis & Generated Response:
+--------------------------------
+#### 1. Executive Overview
+
+**Project Title:** Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work
+
+**Event/Initiative:**
+Smart India Hackathon 2026
+
+**Problem Statement ID:** SIH26117
+**Team Name:** TEAM ADRESTIA
+**Core Mission:** To develop a sovereign on-premise AI workbench that addresses the challenges of confidential industrial data.
+
+#### 2. Problem Statement & Industrial Need
+
+The core problem is to address confidentiality and control over sensitive data within an organization, especially when dealing with private SOPs (Solutions of Procedures) or proprietary documents. Cloud-based AI solutions are often restricted by internet access policies and security measures that can hinder the controlled egress of confidential information.
+
+**Risks:**
+- **Cloud AI Blockade:** The use of cloud services like AWS, Azure, or Google Cloud poses significant risks due to their open nature.
+- **On-premise vs. Air-Gapped AI:** On-premises systems are more secure and can control the egress of data but may not be as accessible for external audits.
+
+#### 3. Proposed Solution & Architecture
+
+**End-to-End Technical Pipeline:**
+1. **Input:** PDF, Image, Drawing, Code
+2. **Understand:** Local OCR + Vision models
+3. **Retrieve:** Private SOPs / Manuals
+4. **Plan:** Agent creates task plan
+5. **Execute:** Local AI models and tools
+6. **Verify/ReRank:** Sandbox + evidence selection
+7. **Deliver:** Word, Excel, PPT, Code, Text
+
+**Key Modules:**
+- **Agent Creation:** Plans → Acts → Verifies
+- **Model Router:** Private RAG (Rag Aided Governance)
+- **Multi-step Work:** Task-aware Model Router
+- **Evidence-Focused:** Sandbox + evidence selection
+- **Model-Agnostic:** New models plug in without redesigning the whole system
+
+**Open-Weight AI:**
+- No vendor lock-in
+- Local Knowledge
+- Safe Tooling
+- Sandboxed Execution
+
+#### 4. Key Innovations & Differentiators
+
+**Provable Sovereignty:**
+- Proven open technologies like Qwen, Llama, Mistral, Gemma, PaddleOCR, and FAISS ensure controlled execution without redesigning the core AI architecture.
+
+**Task
+
+Evidence Sources:
+-----------------
+- final ppt sih adrestia.pptx, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+
+Problem Statement ID – SIH26117
+Problem Statement Title- “Sovereign On-Premise Ag

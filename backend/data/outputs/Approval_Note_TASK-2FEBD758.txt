@@ -1,0 +1,48 @@
+Approval Note TASK-2FEBD758
+===========================
+
+Finding 1:
+Detailed Solution:
+
+Finding 2:
+Input: PDF, Image, Drawing, Code
+
+Finding 3:
+Understand: Local OCR + Vision
+
+Finding 4:
+Retrieve: Private SOPs / Manuals
+
+Finding 5:
+Plan: Agent creates task plan
+
+Finding 6:
+Execute: Local models, tools
+
+Finding 7:
+Verify/ReRank: Sandbox + evidence, best answer selection
+
+Finding 8:
+Deliver: Word, Excel, PPT, Code, Text
+
+Finding 9:
+How It Addresses the Problem:
+
+Finding 10:
+Cloud AI blocked
+
+Finding 11:
+On-premise / air-gapped AI
+
+Finding 12:
+Scanned + multimodal data
+
+Evidence:
+- final ppt sih adrestia.pdf, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+• Problem Statement ID – SIH26117
+• Problem Statement Title- “Sovereign
+On-Premise
+
+Recommendation:
+Detailed Solution:

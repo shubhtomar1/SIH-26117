@@ -1,0 +1,42 @@
+Approval Note TASK-01E19AAE
+===========================
+
+Finding 1:
+Title Page: The document begins with a title page detailing the event's title, problem statement ID, and title of the problem. It also mentions the theme, category, and team ID.
+
+Finding 2:
+Problem Statement:
+
+Finding 3:
+Problem Statement ID: SIH26117
+
+Finding 4:
+Problem Statement Title: "Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work"
+
+Finding 5:
+Theme: Smart Automation
+
+Finding 6:
+Solution:
+
+Finding 7:
+Detailed Solution:
+
+Finding 8:
+INPUT: PDF, Scan, Image, Drawing, Code
+
+Finding 9:
+UNDERSTAND:
+
+Finding 10:
+Local OCR + Vision Model: Processes the scanned data to extract text, images, and drawing information.
+
+Evidence:
+- final ppt sih adrestia.pdf, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+• Problem Statement ID – SIH26117
+• Problem Statement Title- “Sovereign
+On-Premise
+
+Recommendation:
+Title Page: The document begins with a title page detailing the event's title, problem statement ID, and title of the problem. It also mentions the theme, category, and team ID.

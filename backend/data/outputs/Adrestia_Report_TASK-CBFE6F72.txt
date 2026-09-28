@@ -1,0 +1,57 @@
+Document Summary TASK-CBFE6F72
+==============================
+
+Analysis & Generated Response:
+--------------------------------
+#### 1. Document / Executive Overview
+
+**Document Title:** Sovereign AI Workbench for Confidential Industrial Work
+
+**Issuing Authority/Author Team:**
+- **Team ID:** TEAM ADRESTIA
+- **IDEA TITLE:** SOVEREIGN AI WORKBENCH
+- **Theme:** Smart Automation
+- **PS Category:** Software
+- **Team Name:** ADRESTIA
+
+---
+
+#### 2. Context & Background
+
+**Core Background:**
+The Sovereign AI Workbench is designed to address the challenges of securing, managing, and executing confidential industrial work within an organization's premises or air-gapped environments. The primary objective is to provide a secure, automated solution for data management and decision-making processes.
+
+**Problem Being Addressed:**
+- **Confidential Data:** Local OCR + Vision models are not accessible due to cloud dependencies.
+- **On-premise AI Solutions:** On-premises AI solutions lack the necessary security features and control over sensitive information.
+- **Manual Review Processes:** Manual review of reports, approvals, and deliverables is time-consuming and prone to errors.
+
+**Necessity:**
+The current approach often results in manual reviews that are slow, error-prone, and not scalable. The Sovereign AI Workbench aims to provide a more automated and secure solution for managing confidential data within the organization's infrastructure.
+
+---
+
+#### 3. Core Provisions & Specifications
+
+**Key Directives, Action Items, & Innovations:**
+
+- **Input:** PDF, Image, Drawing, Code
+- **Understand:** Local OCR + Vision models are not accessible due to cloud dependencies.
+- **Retrieve:** Private SOPs / Manuals, Data sources (e.g., blueprints, drawings).
+- **Plan:** Agent creates task plans and local model selection processes.
+- **Execute:** Local AI models with tools for verification and sandboxing.
+- **Verify:** Sandboxed code execution, evidence review, and deliverable audit.
+
+**Summary & Practical Impact:**
+
+The Sovereign AI Workbench addresses the core issues of securing confidential data within an organization's premises or air-gapped environments. By leveraging open-source technologies like Qwen, Llama, Mistral, Gemma, PaddleOCR, OCR + VLM pipelines, and FAISS/Qdrant, it ensures that local models are accessible without cloud dependencies.
+
+- **Key Innovation:** The Sovereign AI Workbench combines proven open technologies into a single sovereign, multimodal, and agentic workflow for confidential
+
+Evidence Sources:
+-----------------
+- adrestia ppt 2.pptx, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+
+Problem Statement ID – SIH26117
+Problem Statement Title- “Sovereign On-Premise Ag

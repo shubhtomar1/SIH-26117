@@ -1,0 +1,2 @@
+MAINTENANCE GUIDELINES — Torque and Fastening.
+Section 4.1: Flange assembly A-2 fasteners shall be torqued to 220 Nm +/- 5 Nm and re-verified after thermal cycle.

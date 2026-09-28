@@ -1,0 +1,45 @@
+Approval Note TASK-A7007B63
+===========================
+
+Finding 1:
+**Name:** Mr. Mukul Raj Singh
+
+Finding 2:
+**Father's Name:** Mr. Munesh Kumar
+
+Finding 3:
+**Mother's Name:** Mrs. Sanjana
+
+Finding 4:
+**Gender:** Male
+
+Finding 5:
+**Marital Status:** Single
+
+Finding 6:
+**Date of Birth:** 23-Aug-2006
+
+Finding 7:
+**Category:** Scheduled Caste
+
+Finding 8:
+**Scheduled Caste:** Dalit
+
+Finding 9:
+**Scheduled Caste Status:** Scheduled Caste
+
+Finding 10:
+**Hinduism:** Hindu
+
+Finding 11:
+**Contact Details:**
+
+Finding 12:
+**Phone with STD code:** 09837487249
+
+Evidence:
+- o level registaration form.pdf, Page None: National Institute of Electronics and Information Technology
+Ministry of Electronics and Information Technology, Governm
+
+Recommendation:
+**Name:** Mr. Mukul Raj Singh

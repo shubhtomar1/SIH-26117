@@ -1,0 +1,42 @@
+Approval Note TASK-D42458E1
+===========================
+
+Finding 1:
+Title Page: Title Page of the document, including the document's title, author, and a section title: "SMART INDIA HACKATHON 2026".
+
+Finding 2:
+Team ID: Team ID is provided, which is "TEAM ADRESTIA".
+
+Finding 3:
+Problem Statement ID: Problem Statement ID is provided, which is "SIH26117".
+
+Finding 4:
+Theme: Theme is provided, which is "Smart Automation".
+
+Finding 5:
+PS Category: PS Category is provided, which is "Software".
+
+Finding 6:
+Team Name: Team Name is provided, which is "TEAM ADRESTIA".
+
+Finding 7:
+Input: Inputs are provided, which are:
+
+Finding 8:
+How It Addresses the Problem: The problem is described as "Cloud AI blocked → On-premise / air-gapped AI", indicating that the solution addresses the issue of accessing cloud AI services and ensures confidentiality. The solution includes a detailed solution, including tasks, models, and actions.
+
+Finding 9:
+INNOVATION & UNIQUENESS: Innovation is provided, which is "Task-Aware Model Router". The unique feature is that tasks are model-aware, making it easier to route tasks to the appropriate AI models.
+
+Finding 10:
+INNOVATION & UNIQUENESS: Uniqueness is provided, which is "Agentic Execution". The unique feature is that the model-router ensures that each task is routed to the best local model, making it less prone to errors.
+
+Evidence:
+- final ppt sih adrestia.pdf, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+• Problem Statement ID – SIH26117
+• Problem Statement Title- “Sovereign
+On-Premise
+
+Recommendation:
+Title Page: Title Page of the document, including the document's title, author, and a section title: "SMART INDIA HACKATHON 2026".

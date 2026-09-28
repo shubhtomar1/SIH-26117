@@ -1,0 +1,48 @@
+Approval Note TASK-DE1D1739
+===========================
+
+Finding 1:
+PDF Input: Local images, drawings, and code.
+
+Finding 2:
+OCR and Vision: Local OCR and vision models.
+
+Finding 3:
+Private SOPs: Personalized operational specifications.
+
+Finding 4:
+Manual Files: Personalized work instructions.
+
+Finding 5:
+Local OCR: Processes images and drawings.
+
+Finding 6:
+Vision: Identifies objects and features in images.
+
+Finding 7:
+Private SOPs: Manual instructions specific to the team.
+
+Finding 8:
+Manual Files: Personalized documents from the team.
+
+Finding 9:
+Local OCR + Vision: Handles images and drawings.
+
+Finding 10:
+Private SOPs: Processes customized documents specific to the team.
+
+Finding 11:
+Manual Files: Personalized documents from the team.
+
+Finding 12:
+Agent Creates Task Plan: The agent plans the actions to be taken.
+
+Evidence:
+- final ppt sih adrestia.pdf, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+• Problem Statement ID – SIH26117
+• Problem Statement Title- “Sovereign
+On-Premise
+
+Recommendation:
+PDF Input: Local images, drawings, and code.

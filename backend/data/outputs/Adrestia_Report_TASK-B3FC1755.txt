@@ -1,0 +1,50 @@
+Document Summary TASK-B3FC1755
+==============================
+
+Analysis & Generated Response:
+--------------------------------
+- **Title**: Sovereign AI Workbench for Confidential Industrial Work
+- **Problem Statement ID**: SIH26117
+  - Problem: Cloud AI blocked due to confidentiality issues.
+  - Solution: On-premise / air-gapped AI with local OCR + vision models and a task-aware model router.
+
+- **Theme**: Smart Automation
+  - Theme: Leveraging open-source technologies for creating an on-premise agentic AI workbench using multimodal LLMs.
+
+- **Team ID**:
+  - Team Name: TEAM ADRESTIA
+
+- **IDEA TITLE**: SOVEREIGN AI WORKBENCH
+  - Idea Title: A sovereign workspace combining proven open technologies into a single, multimodal and agentic workflow for confidential industrial work.
+  
+- **Input**:
+  - PDF • Scan • Image • Drawing • Code
+  - Local OCR + vision models
+
+- **Understand**: 
+  - Understanding local OCR + vision models to extract data from images or drawings.
+
+- **RETRIEVE**:
+  - Private SOPs / Manuals: Accessing internal documentation and manuals for the project.
+  
+- **PLAN**:
+  - Agent creates a task plan
+  - Local models + tools are selected per task
+
+- **EXECUTE**: 
+  - Task-aware model router is used to route tasks based on their complexity.
+
+- **VERIFY**:
+  - Sandbox + evidence: Ensuring that sandboxed code and evidence can be trusted.
+  
+- **DELIVER**:
+  - Word • Excel • PPT • Code
+  - Local models, tools, and a plan are delivered as the final deliverable.
+
+Evidence Sources:
+-----------------
+- adrestia ppt 2.pptx, Page None: TITLE PAGE
+SMART INDIA HACKATHON 2026
+
+Problem Statement ID – SIH26117
+Problem Statement Title- “Sovereign On-Premise Ag

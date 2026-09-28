@@ -1,0 +1,59 @@
+Document Summary TASK-290089DA
+==============================
+
+Analysis & Generated Response:
+--------------------------------
+#### Purpose & Standards:
+
+- **Purpose:** The IT Security & Remote Work SOP defines mandatory security measures for 50+ Full-Time Staff operating across hybrid environments.
+  
+- **Standards:**
+  - All corporate laptops must run company-managed Endpoint Detection & Response (EDR) software and keep BitLocker/FileVault disk encryption enabled.
+
+  - Authentication:
+    - Passwords are a minimum of 14 characters, stored using corporate password managers.
+    - Multi-Factor Authentication (MFA) is mandatory on all accounts (Google Workspace, GitHub, AWS).
+
+#### Hardware & Password Governance:
+
+- **Hardware:**
+  - All corporate laptops must run company-managed Endpoint Detection & Response (EDR) software and keep BitLocker/FileVault disk encryption enabled.
+
+- **Password Management:**
+  - Passwords are a minimum of 14 characters, stored using corporate password managers.
+  
+#### Remote Work & Network Access SOP:
+
+- **Network Access:** 
+  - Staff connecting from remote locations or public Wi-Fi must route all traffic through the official NexusTech WireGuard VPN.
+
+- **Data Transfer Restrictions:**
+  - Production datasets and customer Personal Identifiable Information (PII) cannot be downloaded onto personal devices or unencrypted USB drives.
+  
+#### Incident Response SOP:
+
+- **Incident Response:** 
+  - In case of a lost device or compromised credential, an employee should report to security@nexustech.com within 30 minutes. Security Audits are performed quarterly with non-compliant devices automatically losing network access.
+
+#### NEXUSTECH SOLUTIONS INC. (Nexustech Solutions Inc.):
+
+- **Operations & Governance:**
+  - The company's operations and governance manual outlines confidentiality, integrity, availability, and accountability of its internal and external compliance.
+  
+- **Confidential Internal & External Compliance Manual:**
+  - This document provides guidelines for maintaining the organization’s confidential information.
+
+- **NexusTech Solutions Inc. — Confidential Internal & External Compliance Manual:**
+  - This section details the organization's policies on data protection, access control, and reporting mechanisms to ensure adherence to legal and regulatory requirements.
+  
+#### Grounding & Evidence Sources:
+
+- **IT_Security_and_Remote_Work_SOP.pdf (Referenced):** IT Security & Remote Work SOP DOCUMENT
+- **NTS-SOP - Security-2026-v1 EFFECTIVE DATE:** Oct 1, 2026
+- **TARGET SCOPE:**
+
+Evidence Sources:
+-----------------
+- Adrestia_Report_TASK-CCF862E1.pdf, Page None: Document Summary TASK-CCF862E1
+Analysis & Generated Response
+ Purpose & Standards: The IT Security & Remote Work SOP de
